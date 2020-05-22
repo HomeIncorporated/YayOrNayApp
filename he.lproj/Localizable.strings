@@ -1,0 +1,75 @@
+/* 
+  Localizable.strings
+  YayOrNay
+
+  Created by Ilay on 03/08/2019.
+  Copyright © 2019 kStudio. All rights reserved.
+*/
+
+//GENERAL
+"yes" = "כן";
+"no" = "לא";
+"cancel" = "ביטול";
+"understand" = "הבנתי";
+"submit" = "שלח/י";
+"dismiss" = "צא/י";
+"ok" = "אוקיי";
+"error" = "אופס";
+
+//Screen names
+"feed.vc" = "פוסטים";
+"new.post.vc" = "פוסט חדש";
+
+// LoginVC
+"login.btn" = "התחבר/י";
+"signup.btn" = "להרשמה, לחצ/י כאן";
+"email.placeholder" = "כתובת דואר אלקטרוני";
+"username.placeholder" = "כינוי";
+"password.placeholder" = "סיסמא";
+"login.error.title" = "שגיאת התחברות";
+"login.error.msg" = "כתובת המייל או הסיסמא אינם נכונים";
+
+//FeedVC
+"friends.btn" = "חברים";
+"logout.btn" = "התנתק/י";
+"posts.by" = "פוסטים של";
+
+//Newpost VC
+"post.title.placeholder" = "כותרת";
+"post.body.placeholder" = "תרצה/י להוסיף משהו?";
+"create.post.btn" = "הוסף";
+"photo.library.option" = "גלריית התמונות";
+"camera.option" = "צילום תמונה";
+"upload.error.title" = "רק רגע";
+"upload.error.msg" = "לא ניתן להעלות פוסט ללא תמונה";
+"occasion.label" = "אירוע";
+"casual" = "יומי";
+"beach" = "ים";
+"evening" = "ערב";
+"party" = "מסיבה";
+"date" = "דייט";
+"wedding" = "חתונה";
+"work" = "עבודה";
+
+//Friends VC
+"friend.btn" = "עקוב";
+"unfriend.btn" = "הסר";
+"searchbar.placeholder" = "מצא/י חברים חדשים";
+
+//PostsVC
+"sure" = "בטוח/ה?";
+"delete.post.msg" = "האם אתֿ/ה בטוח/ה שברצונך למחוק פוסט זה?";
+"logout.msg" = "האם את/ה בטוח/ה שברצונך להתנתק?";
+"delete.post.error.msg" = "הייתה בעיה במחיקת הפוסט.";
+
+//SignupVC
+"signup.form.btn" = "הירשמ/י";
+"pass.dont.match.title" = "אי התאמה";
+"pass.dont.match.msg" = "הסיסמאות שרשמת אינן מתאימות";
+"app.pass.placeholder" = "אמת/י סיסמא";
+"back.to.login" = "חזרה למסך התחברות";
+"username.taken" = "שם המשתמש כבר תפוס";
+
+//DetailsVC
+"follow.btn" = "עקוב/י";
+"delete.btn" = "מחק/י";
